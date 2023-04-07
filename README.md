@@ -30,12 +30,12 @@ Users should be able to:
 
 - Desktop version
 
-<img src="./src/screenshots/desktop.gif">
+<img src="./public/screenshots/desktop.gif">
 
 - Mobile version
 
 <p align="center">
-<img src="./src/screenshots/mobile.gif" width="50%">
+<img src="./public/screenshots/mobile.gif" width="50%">
 </p>
 
 ### Links
